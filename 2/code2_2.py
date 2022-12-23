@@ -39,6 +39,7 @@ def calculate_move2result():
 
 
 #makes a table showing if your desitred result is left and their move is right
+#oops this shoul dbe in the above and just create/return 2 dicts
 def calculate_result2move():
 	choices = ['rock', 'paper', 'scissors']
 	results = ['draw','lose','win']
